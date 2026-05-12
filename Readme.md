@@ -1,13 +1,13 @@
 <img height="100" alt="hyperexecute_logo" src="https://user-images.githubusercontent.com/1688653/159473714-384e60ba-d830-435e-a33f-730df3c3ebc6.png">
 
-HyperExecute is a next-gen test execution platform by LambdaTest, designed to supercharge your test runs with unparalleled speed, scalability, and smart test management. Whether you're running cross-browser tests or executing your CI/CD pipeline, HyperExecute ensures efficiency and speed in the cloud.
+HyperExecute is a next-gen test execution platform by TestMu AI, designed to supercharge your test runs with unparalleled speed, scalability, and smart test management. Whether you're running cross-browser tests or executing your CI/CD pipeline, HyperExecute ensures efficiency and speed in the cloud.
 
 HyperExecute is configured using a YAML file. Instead of moving the Hub close to you, HyperExecute brings the test scripts close to the Hub!
 
-- [HyperExecute HomePage](https://www.lambdatest.com/hyperexecute)
-- [Lambdatest HomePage](https://www.lambdatest.com)
-- [HyperExecute JMeter Documentation](https://www.lambdatest.com/support/docs/hyperexecute-run-jmeter-tests/)
-- [LambdaTest Support](mailto:support@lambdatest.com)
+- [HyperExecute HomePage](https://www.testmuai.com/hyperexecute)
+- [TestMu AI HomePage](https://www.testmuai.com)
+- [HyperExecute JMeter Documentation](https://www.testmuai.com/support/docs/hyperexecute-run-jmeter-tests/)
+- [TestMu AI Support](mailto:support@testmuai.com)
 <br />
 
 ## 📖 Table of Contents
@@ -20,7 +20,7 @@ HyperExecute is configured using a YAML file. Instead of moving the Hub close to
 8. [Contact & Support](#-contact--support)
 
 ## 🚀 Steps to run your test
-> Before proceeding forward, make sure you have created your account on [LambdaTest](https://accounts.lambdatest.com/login)
+> Before proceeding forward, make sure you have created your account on [TestMu AI](https://accounts.lambdatest.com/login)
 
 Follow the steps below to get started with running Selenium TestNG tests on HyperExecute!
 <br />
@@ -47,9 +47,9 @@ You can monitor your test execution in real-time using the [HyperExecute Dashboa
 ## 📚 Documentation & Resources
 For more details on how to run and customize tests with HyperExecute, check out:
 
-- [HyperExecute Documentation](https://www.lambdatest.com/support/docs/getting-started-with-hyperexecute/)
-- [HyperExcute API Documentation](https://www.lambdatest.com/support/api-doc/?key=hyperexecute)
-- [HyperExecute Case Study Blogs](https://www.lambdatest.com/blog/category/hyperexecute/)
+- [HyperExecute Documentation](https://www.testmuai.com/support/docs/getting-started-with-hyperexecute/)
+- [HyperExcute API Documentation](https://www.testmuai.com/support/api-doc/?key=hyperexecute)
+- [HyperExecute Case Study Blogs](https://www.testmuai.com/blog/category/hyperexecute/)
 
 ## 🤝 Contributing
 We welcome contributions to improve this repository. Here's how you can contribute:
@@ -63,8 +63,27 @@ We welcome contributions to improve this repository. Here's how you can contribu
 ## 📞 Contact & Support
 Need help or have questions? Reach out to us:
 
-- Email: support@lambdatest.com
-- Visit our [Community Forum](https://community.lambdatest.com/)
+- Email: support@testmuai.com
+- Visit our [Community Forum](https://community.testmuai.com/)
 
 
 Thank you for using HyperExecute! 🚀 Happy Testing!
+
+## 🚀 [LambdaTest is Now TestMu AI](https://www.testmuai.com/lambdatest-is-now-testmuai/)
+
+👋 Welcome to TestMu AI, the next evolution of LambdaTest. As of January 2026, LambdaTest has officially rebranded to TestMu AI. We have evolved from a cross-browser testing cloud into a unified, AI-native quality engineering platform designed for the modern DevOps era.
+
+Whether you have been part of the LambdaTest community for years or are just discovering TestMu AI, our mission remains the same: to help you ship faster with high-scale test execution, autonomous testing, and deep quality analytics.
+
+**🔄 Our Rebrand Journey**
+
+We chose the name TestMu AI to reflect our shift towards intelligent, autonomous testing. While our identity has changed, our core technology and commitment to the testing community stay the same.
+
+**✨ Specialties**
+
+- 🤖 AI-Native Test Execution (Formerly LambdaTest)
+- ⚡ Autonomous Test Automation
+- 🌐 Cross-Browser & Mobile Testing
+- 📊 Unified Quality Intelligence
+
+👉 Find [LambdaTest's New Home](https://www.testmuai.com/).
